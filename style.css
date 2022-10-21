@@ -1,0 +1,27 @@
+/* font-family: 'Shalimar', cursive; */
+
+#body {
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Shalimar', cursive;
+    text-align: center;
+    background-color: #EDDBC0;
+}
+
+.container {
+    width: 100%;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Shalimar', cursive;
+}
+
+.big-heading {
+    font-size: 8rem;
+}
+
+.player {
+    font-size: 4rem;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
